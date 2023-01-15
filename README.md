@@ -1,4 +1,4 @@
-# Sentiment-analysis-project
+# Study on the Change of People’s Sentiments Towards COVID-19 and Its Influencing Factors Based on NLP Technology
 
 ## Brief description
 This is a collaborative data science project where we attempted to explore the relationship between the stringency of government policy and people's sentiments
